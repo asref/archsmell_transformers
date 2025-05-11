@@ -10,6 +10,10 @@ This repository contains code and experiments from master's thesis on predicting
 - **Dataset**: Labeled Java code extracted using RefactoringMiner
 - **Evaluation**: Accuracy, F1-score, precision, recall, and confusion matrix analysis
 
+## Dataset
+
+Dataset available at Zenodo: https://doi.org/10.5281/zenodo.15334567
+
 ## 🚀 Usage
 
 1. Clone the repo  
